@@ -1,4 +1,4 @@
-## Features
+### Features
 * Create an AP (Access Point) at any channel.
 * Choose one of the following encryptions: WPA, WPA2, WPA/WPA2, Open (no encryption).
 * Hide your SSID.
@@ -6,8 +6,8 @@
 * IEEE 802.11n & 802.11ac support
 * Internet sharing methods: NATed or Bridged or None (no Internet sharing).
 * Choose the AP Gateway IP (only for 'NATed' and 'None' Internet sharing methods).
-* You can create an AP with the same interface you are getting your Internet connection.
-* You can pass your SSID and password through pipe or through arguments (see examples).
+* You can create an AP with the same interface you are getting your Internet connection
+* You can pass your SSID and password through pipe or through arguments (see examples)
 
 
 ## Dependencies
